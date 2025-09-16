@@ -41,9 +41,6 @@ Option 2: Enter directly in the app sidebar.
 - streamlit run app.py
 . Then open the link in your browser (usually http://localhost:8501).
 
-### 📸 Screenshots
-Chat Interface
-
 ### ⚙️ Project Structure
 chatbot-using-python-full-stack/
 │── app.py               # Main Streamlit application
