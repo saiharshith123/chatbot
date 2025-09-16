@@ -20,7 +20,7 @@ It demonstrates how to integrate LLM models into a full-stack Python application
 
 ### 📦 Installation
 1. Clone the repository:
--  git clone https://github.com/your-username/chatbot-using-python-full-stack.git
+-  git clone https://github.com/saiharshith123/chatbot-using-python-full-stack.git
 -  cd chatbot-using-python-full-stack
 
 2. Create a virtual environment & activate it:
